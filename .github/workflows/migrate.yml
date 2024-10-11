@@ -3,7 +3,7 @@ name: Migrate JavaScript to TypeScript
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   migrate-js-to-ts:
